@@ -23,8 +23,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
             "shoppingList",
             "shoppingList.json"
           ]
@@ -49,7 +47,6 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
       "firstform": "shoppingList",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
