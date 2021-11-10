@@ -9,6 +9,7 @@ let allGroceryData = []s
 
 btnList.onclick=function(){
     query = "SELECT * FROM grocery"
+    query2= "SELECT * FROM grocery"
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
 
     if (req.status == 200) { //transit trip worked.        
