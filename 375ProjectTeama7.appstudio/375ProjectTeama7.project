@@ -42,6 +42,14 @@
             "gpaCalc",
             "gpaCalc.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "shoppingList",
+            "shoppingList.json"
+          ]
         }
       ],
       "configxml": null,
