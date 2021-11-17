@@ -43,7 +43,7 @@
         "forms",
         "Weather",
         "Elements",
-        "lblOutfit.json"
+        "lblDisplayOutfit.json"
       ]
     }
   ],
