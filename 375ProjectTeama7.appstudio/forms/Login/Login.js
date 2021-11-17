@@ -1,3 +1,5 @@
+
+/*
 let req = ""
 let query = ""
 let results = ""
@@ -18,3 +20,4 @@ btnLogin.onclick=function(){
     else 
       lblMessage1.textContent = "You entered an incorrect username or password."
 }
+*/
