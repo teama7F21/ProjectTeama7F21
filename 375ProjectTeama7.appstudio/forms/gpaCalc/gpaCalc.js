@@ -1,20 +1,21 @@
 var gradeLetters = ['a', 'b+', 'b', 'c+', 'c', 'd', 'f', 'af', 'wf'],
     gradePoints  = [4, 3.5, 3, 2.5, 2, 1, 0, 0, 0];
+  
  
 function getNumCoursesToBeEntered() {
     "use strict";
     var numCourses = 3,
         input = "";
-        
+       
     do {
         input = prompt("Enter number of subjects?");
-        
+       
         if (input === null) { break; }
         if (!isNaN(input) && parseInt(input, 10) >= 0) {
             numCourses = parseInt(input, 10);
         }
     } while (true);
-    
+   
     return numCourses;
 }
  
@@ -82,12 +83,11 @@ var app = function() {
         result = results[i];
  
         document.writeln(result.course + COLUMN_SEPARATOR + result.grade + COLUMN_SEPARATOR + result.creditHours);
-    }	
+    }         
  
     document.writeln();
     computeGradePointAverage(results);
-    document.writeln("</pre>");    
+    document.writeln("</pre>");   
 }
  
 window.onload = app;
-
