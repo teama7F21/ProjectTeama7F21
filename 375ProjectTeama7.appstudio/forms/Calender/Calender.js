@@ -1,9 +1,9 @@
 let calender = ""
 
-const URL = 
+const calenderURL = 
 
 const getData = () => 
-          fetch(URL).then(response => response.json()).then(({results}) => results)
+          fetch(calenderURL).then(response => response.json()).then(({results}) => results)
 
 function freeData(apiData) {
     calender = apiData
