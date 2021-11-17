@@ -16,7 +16,7 @@
         "forms",
         "Weather",
         "Elements",
-        "showWeather.json"
+        "btnShowWeather.json"
       ]
     },
     {
@@ -25,7 +25,25 @@
         "forms",
         "Weather",
         "Elements",
-        "displayWeather.json"
+        "lblDisplayWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Weather",
+        "Elements",
+        "btnWhatOutfit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Weather",
+        "Elements",
+        "lblOutfit.json"
       ]
     }
   ],
