@@ -1,8 +1,8 @@
 let req = ""
 let query = ""
 let results = ""
-let pw = "@Barkley10" 
-let netID = "llm96762"
+let pw = "" 
+let netID = "BRC34170"
 let databaseSchema = "375groupa7"
 let allUsersData = []
 
@@ -18,3 +18,5 @@ btnLogin.onclick=function(){
     else 
       lblMessage1.textContent = "You entered an incorrect username or password."
 }
+
+
