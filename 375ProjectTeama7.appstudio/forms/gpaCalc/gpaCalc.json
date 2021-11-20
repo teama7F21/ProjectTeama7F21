@@ -14,28 +14,37 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "gpaCalc",
         "Elements",
-        "Label1.json"
+        "inptCourse.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Form1",
+        "gpaCalc",
         "Elements",
-        "hmbNavigation.json"
+        "inptCredits.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "gpaCalc",
+        "Elements",
+        "inptGrade.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 800,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
-  "id": "Form1",
+  "height": "800",
+  "id": "gpaCalc",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -43,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "Form1.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
