@@ -45,6 +45,15 @@
         "Elements",
         "txtaGrocery.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "shoppingList",
+        "Elements",
+        "hmbrgrShopping.json"
+      ]
     }
   ],
   "class": "",
