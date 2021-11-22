@@ -1,9 +1,13 @@
-weather.onshow=function(){
-  lblDisplayWeather.value = weather.days[0].temp
-  //console.log(`the temp is ${weather.days[0].temp}`)
-}
+let calender = ""
 
-HamburgerW.onclick=function(s){
+const calenderURL =
+
+Canvas.onshow=function(){
+  //Label1.value = weather.days[0].temp
+  //console.log(`the temp is ${weather.days[0].temp}`)
+  }
+  
+  HamburgerC.onclick=function(s){
   if (typeof(s) == "object")
        return
      else {

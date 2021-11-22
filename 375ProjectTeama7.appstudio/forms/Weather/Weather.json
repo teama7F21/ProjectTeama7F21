@@ -34,34 +34,7 @@
         "forms",
         "Weather",
         "Elements",
-        "btnWhatOutfit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Weather",
-        "Elements",
-        "lblDisplayOutfit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Weather",
-        "Elements",
-        "Button1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Weather",
-        "Elements",
-        "Hamburger1.json"
+        "HamburgerW.json"
       ]
     }
   ],

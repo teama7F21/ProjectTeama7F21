@@ -55,16 +55,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Calender",
-            "Calender.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Form1",
-            "Form1.json"
+            "Canvas",
+            "Canvas.json"
           ]
         },
         {
@@ -95,7 +87,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Login",
+      "firstform": "Weather",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

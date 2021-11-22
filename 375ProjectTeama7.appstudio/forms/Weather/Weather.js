@@ -1,18 +1,9 @@
-/*
-Button1.onclick = function() {
-  ChangeForm(Form1)
+weather.onshow=function(){
+  lblDisplayWeather.value = weather.days[0].temp
+  //console.log(`the temp is ${weather.days[0].temp}`)
 }
 
-Weather.onshow = function() {
-
-  getData().then(data => {
-    freeData(data, weather)
-    weather = data
-  })
-}
-*/
-
-Hamburger1.onclick=function(s){
+HamburgerW.onclick=function(s){
   if (typeof(s) == "object")
        return
      else {

@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": 70,
+  "height": 43,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnShowWeather",
-  "left": 196,
+  "left": 71,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 28,
+  "top": 82,
   "value": "Show Weather",
-  "width": 112
+  "width": "180"
 }

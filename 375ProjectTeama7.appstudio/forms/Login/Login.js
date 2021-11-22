@@ -1,3 +1,4 @@
+/*
 let req = ""
 let query = ""
 let results = ""
@@ -15,9 +16,11 @@ btnLogin.onclick=function(){
     
     if (username == '" + username + "' && password == '" + password + "')
       lblMessage1.textContent = "You successfully logged in!"
+      ChangeForm(Homepage) // this line is messed up --> After login we need to send them to the homeage
     else 
       lblMessage1.textContent = "You entered an incorrect username or password."
 }
+*/
 
 
 
