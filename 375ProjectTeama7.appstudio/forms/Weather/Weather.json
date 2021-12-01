@@ -34,16 +34,7 @@
         "forms",
         "Weather",
         "Elements",
-        "btnWhatOutfit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Weather",
-        "Elements",
-        "lblDisplayOutfit.json"
+        "HamburgerW.json"
       ]
     }
   ],
@@ -61,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "Weather.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

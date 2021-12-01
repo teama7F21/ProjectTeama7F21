@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblDisplayWeather",
   "labelStyle": "text",
-  "left": 77,
+  "left": 137,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 61,
+  "top": 165,
   "value": "Label",
   "width": "auto"
 }
