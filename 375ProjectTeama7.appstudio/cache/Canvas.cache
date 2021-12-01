@@ -1,9 +1,34 @@
-/* 
-let requestURL = "https://canvas.instructure.com/doc/api/api-docs.json/v1/calendar_events"
+/*
 
-function callAPI(URL) 
-  let xhttp = new XNLHttpRequest()
-  xhttp.open('GET',  
-JSON "https://www.getpostman.com/collections/9ab1be3583de38693e55"
+let calender = ""
 
+const calenderURL =
+
+Canvas.onshow=function(){
+  //Label1.value = weather.days[0].temp
+  //console.log(`the temp is ${weather.days[0].temp}`)
+  }
+  
+  HamburgerC.onclick=function(s){
+  if (typeof(s) == "object")
+       return
+     else {
+       switch(s) {
+            case "Homepage":
+                ChangeForm(Homepage)
+                break
+                   case "Canvas":
+                ChangeForm(Canvas)
+                break
+                    case "Shopping List":
+                ChangeForm(shoppingList)
+                break
+                  case "Weather":
+                ChangeForm(Weather)
+                break
+                  case "GPA Calculator":
+                ChangeForm(gpaCalc)
+                break
+       }  
+}
 */

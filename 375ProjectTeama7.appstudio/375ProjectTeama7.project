@@ -47,6 +47,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Weather",
+            "Weather.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Canvas",
             "Canvas.json"
           ]
@@ -55,8 +63,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Weather",
-            "Weather.json"
+            "GetAPIData",
+            "GetAPIData.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "shoppingList",
+            "shoppingList.json"
           ]
         }
       ],
@@ -79,7 +95,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Weather",
+      "firstform": "Login",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
@@ -124,7 +140,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "o6CDxe",
       "voltDomain": ""
     }
   ],
