@@ -1,9 +1,9 @@
+/*
 weather.onshow=function(){
   lblDisplayWeather.value = weather.days[0].temp
-  //console.log(`the temp is ${weather.days[0].temp}`)
 }
 
-HamburgerW.onclick=function(s){
+/* HamburgerW.onclick=function(s){
   if (typeof(s) == "object")
        return
      else {
@@ -24,4 +24,6 @@ HamburgerW.onclick=function(s){
                 ChangeForm(gpaCalc)
                 break
        }  
+       }
 }
+*/

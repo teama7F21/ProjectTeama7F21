@@ -18,15 +18,6 @@
         "Elements",
         "btnSeeData.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "GetAPIData",
-        "Elements",
-        "btnCallTheAPI.json"
-      ]
     }
   ],
   "class": "",
@@ -43,7 +34,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "GetAPIData.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

@@ -34,7 +34,7 @@
         "forms",
         "shoppingList",
         "Elements",
-        "btnList.json"
+        "txtaGrocery.json"
       ]
     },
     {
@@ -43,13 +43,13 @@
         "forms",
         "shoppingList",
         "Elements",
-        "txtaGrocery.json"
+        "btnList.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 700,
+  "designWidth": 700,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,

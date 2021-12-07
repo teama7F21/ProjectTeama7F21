@@ -1,26 +1,12 @@
+/*
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 let calender = ""
 
 const calenderURL =
 
-  /*
-  Calender.onshow = function() {
-    getData = () =>
-      fetch(calenderURL).then(response => response.json()).then(({
-        results
-      }) => results)
-
-    function freeData(apiData) {
-      calender = apiData
-    }
-
-    getData().then(data => {
-      freeData(data, calender)
-      calender = data
-    })
-
-  }
-  */
-  
 Canvas.onshow=function(){
   //Label1.value = weather.days[0].temp
   //console.log(`the temp is ${weather.days[0].temp}`)
@@ -47,4 +33,9 @@ Canvas.onshow=function(){
                 ChangeForm(gpaCalc)
                 break
        }  
+<<<<<<< Updated upstream
+       }
+=======
+>>>>>>> Stashed changes
 }
+*/

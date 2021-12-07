@@ -1,3 +1,4 @@
+/*
 let weather = ""
 let calender = ""
 
@@ -10,7 +11,8 @@ function getData() {
     .then(function(data) {
       freeDataWeather(data)
     })
-    .catch(function() {})
+    .catch(function() {
+    })
 }
 
 function freeDataWeather(apiData) {
@@ -18,6 +20,7 @@ function freeDataWeather(apiData) {
   weather = apiData
 }
 
-btnShowWeather.onclick = function() {
+btnSeeData.onclick=function(){
   getData()
-  }
+}
+*/

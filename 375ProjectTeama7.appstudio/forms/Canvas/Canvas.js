@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
+let calender
+=======
+/*
+
 let calender = ""
+>>>>>>> Stashed changes
 
 const calenderURL =
 
@@ -28,4 +34,10 @@ Canvas.onshow=function(){
                 ChangeForm(gpaCalc)
                 break
        }  
+<<<<<<< Updated upstream
+       }
 }
+=======
+}
+*/
+>>>>>>> Stashed changes

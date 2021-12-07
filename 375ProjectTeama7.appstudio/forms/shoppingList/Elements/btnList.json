@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnList",
-  "left": 123,
+  "left": 180,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 75,
+  "top": 78,
   "value": "Show List",
   "width": "auto"
 }

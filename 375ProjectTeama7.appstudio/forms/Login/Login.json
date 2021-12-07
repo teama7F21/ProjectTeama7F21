@@ -36,6 +36,15 @@
         "Elements",
         "btnLogin.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Login",
+        "Elements",
+        "lblError.json"
+      ]
     }
   ],
   "class": "",

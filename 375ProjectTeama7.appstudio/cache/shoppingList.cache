@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 /*
 let allGroceryData = []
+
 =======
 let req = ""
 let query = ""
@@ -10,8 +11,8 @@ let netID = "brc34170"
 let databaseSchema = "375groupa7"
 let allGroceryData = []
 
->>>>>>> Stashed changes
 
+>>>>>>> Stashed changes
 btnList.onclick=function(){
     query = "SELECT * FROM grocery"
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
@@ -25,12 +26,22 @@ btnList.onclick=function(){
      }
 }
 
+<<<<<<< Updated upstream
 btnSubmit.onclick=function(){
     let name = inptItem.value
     query = "INSERT INTO grocery (`description`) VALUES ('" + name + "')"
+=======
+
+btnSubmit.onclick=function(){
+    let name = inptItem.value
+    let query = "INSERT INTO grocery (`description`) VALUES ('" + name + "')"
+>>>>>>> Stashed changes
     //alert(query)
     
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
 
 }
+<<<<<<< Updated upstream
 */
+=======
+>>>>>>> Stashed changes

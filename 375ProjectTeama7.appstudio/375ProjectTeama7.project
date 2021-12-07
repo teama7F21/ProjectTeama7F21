@@ -66,6 +66,14 @@
             "GetAPIData",
             "GetAPIData.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "shoppingList",
+            "shoppingList.json"
+          ]
         }
       ],
       "configxml": null,
@@ -87,7 +95,11 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Weather",
+<<<<<<< Updated upstream
+      "firstform": "Login",
+=======
+      "firstform": "shoppingList",
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
@@ -132,7 +144,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "o6CDxe",
       "voltDomain": ""
     }
   ],
